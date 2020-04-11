@@ -1,0 +1,7 @@
+.myImage {
+    width: 1000px;
+    height: 700px;
+    background-image: url("./images/Rummy_BackGround.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
